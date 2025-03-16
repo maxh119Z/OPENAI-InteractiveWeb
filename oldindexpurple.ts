@@ -380,7 +380,7 @@
           import { getAuth, signOut, GoogleAuthProvider, signInWithPopup, onAuthStateChanged } from 'https://www.gstatic.com/firebasejs/11.1.0/firebase-auth.js';
           import { getFirestore, doc, getDoc, setDoc } from 'https://www.gstatic.com/firebasejs/11.1.0/firebase-firestore.js';
           const firebaseConfig = {
-            apiKey: "AIzaSyBRPPWo0yAWyN2ZwSUv1UX9FnMnFo_tft4",
+            apiKey: "//hidden",
             authDomain: "vyxels-ebe71.firebaseapp.com",
             projectId: "vyxels-ebe71",
             storageBucket: "vyxels-ebe71.appspot.com",
